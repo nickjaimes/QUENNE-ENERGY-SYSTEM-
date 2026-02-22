@@ -1,3 +1,5 @@
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/284819c2-3515-4497-9ec0-f327e645a345" />
+
 # QUENNE-ENERGY-SYSTEM-
 
 ⚡ QUENNE Energy System (QES)
